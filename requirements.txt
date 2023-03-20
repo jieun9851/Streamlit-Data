@@ -1,4 +1,4 @@
 streamlit==1.20.0
-pandas
+pandas==1.4.4
 time
 json
