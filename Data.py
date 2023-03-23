@@ -1,5 +1,4 @@
 import streamlit as st
-from directory_tree import display_tree
 
 st.set_page_config(
     page_title="Data",
