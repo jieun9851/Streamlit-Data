@@ -2,8 +2,6 @@ import streamlit as st
 import pandas as pd
 import time
 import json
-from directory_tree import display_tree
-from streamlit_tree_select import tree_select
 
 
 def clear_text():
